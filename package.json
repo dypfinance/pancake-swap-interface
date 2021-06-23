@@ -1,7 +1,6 @@
 {
   "name": "@pancakeswap/interface",
   "description": "Pancakeswap Interface",
-  "homepage": ".",
   "private": true,
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
